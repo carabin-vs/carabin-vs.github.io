@@ -1,0 +1,40 @@
+{
+  "headline": "Мои программы",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,2",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Lampa",
+      "label": "Кино + плагин Sisi",
+      "icon": "movie",
+      "action": "link:http://lampa.mx"
+    },
+    {
+      "title": "Atodo",
+      "label": "Бесплатное кино",
+      "icon": "local-movies",
+      "action": "link:http://atodo.fun"
+    },
+    {
+      "title": "Смотрим",
+      "label": "ВГТРК / ТВ и сериалы",
+      "icon": "live-tv",
+      "action": "link:https://smotrim.ru"
+    },
+    {
+      "title": "Zona",
+      "label": "Веб-версия",
+      "icon": "theaters",
+      "action": "link:https://w140.zona.plus"
+    },
+    {
+      "title": "Сборка MSX",
+      "label": "Доп. приложения",
+      "icon": "apps",
+      "action": "start:http://msxplayer.ru/start.json"
+    }
+  ]
+}
