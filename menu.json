@@ -19,23 +19,28 @@
       "action": "link:http://atodo.fun"
     },
     {
-      "title": "Смотрим",
-      "label": "ВГТРК / ТВ и сериалы",
+      "title": "IPTV Молдова",
+      "label": "Каналы MD",
       "icon": "live-tv",
-      "action": "link:https://smotrim.ru"
+      "action": "playlist:http://github.io"
     },
     {
-      "title": "Zona",
-      "label": "Веб-версия",
-      "icon": "theaters",
-      "action": "link:https://w140.zona.plus"
+      "title": "IPTV Румыния",
+      "label": "Каналы RO",
+      "icon": "live-tv",
+      "action": "playlist:http://github.io"
+    },
+    {
+      "title": "OTT-play",
+      "label": "IPTV Плеер",
+      "icon": "tv",
+      "action": "link:http://ott-play.com"
     },
     {
       "title": "Сборка MSX",
-      "label": "Доп. приложения",
+      "label": "msxplayer.ru",
       "icon": "apps",
-      "action": "start:http://msxplayer.ru/start.json"
+      "action": "start:http://msxplayer.ru"
     }
   ]
 }
-
