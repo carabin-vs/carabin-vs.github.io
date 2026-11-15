@@ -1,6 +1,5 @@
 {
   "name": "Carabin TV",
   "version": "1.0.0",
-  "parameter": "menu:http://github.io"
+  "parameter": "menu:https://github.io"
 }
-
